@@ -2,8 +2,11 @@
 
 This is a collection of projects which I am either particularly proud of, or that I feel showcase particular skillsets. I will give a brief description of each of the projects below and why I have specifically chosen them.
 
+### Tracking_Activity_and_Sleep_Using_My_Fitbit
+This is the most recent personal project I have completed. After a month-long step challenge at my company, I take a look at how my daily activity output affects my sleep.
+
 ### Boston_Food_Establishment_Inspections
-This is the most recent personal project I have completed. I take a close look at the violations that were issued to Boston food establishments and see what impact issuing a violation has on how the restaurants operate afterwards.
+This is a personal project where I take a close look at the violations that were issued to Boston food establishments and see what impact issuing a violation has on how the restaurants operate afterwards.
 
 ### Boston_Airbnb_Sentiment_Analysis_Using_Keras
 This is another personal project in which I used natural language processing to classify reviews of Boston Airbnb's. I first use Keras to train a recurrent neural network on a corpus of labeled movie reviews from IMDB, and then use that model to analyze sentiment on the Airbnb reviews. 
