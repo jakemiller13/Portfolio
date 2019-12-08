@@ -2,14 +2,17 @@
 
 This is a collection of projects which I am either particularly proud of, or that I feel showcase particular skillsets. I will give a brief description of each of the projects below and why I have specifically chosen them.
 
+### Query_Script
+This is a Bash script I wrote for the midterm project in Intro to Data Science Management in my RIT Master's program. I am particularly proud of this project because I had no familiarity with Bash prior to this project. I taught myself in a couple of weeks and received a perfect score on the project.
+
 ### Tracking_Activity_and_Sleep_Using_My_Fitbit
-This is the most recent personal project I have completed. After a month-long step challenge at my company, I take a look at how my daily activity output affects my sleep.
+This is a personal project in which I looked at how my daily activity output affected my sleep over the course of a month-long step challenge. After the completion of this project, I also presented it as a lightning talk at the local Boston Python Meetup group.
 
 ### Boston_Food_Establishment_Inspections
-This is a personal project where I take a close look at the violations that were issued to Boston food establishments and see what impact issuing a violation has on how the restaurants operate afterwards.
+This is a personal project where I take a close look at the violations that were issued to Boston food establishments and see what impact issuing a violation has on how the restaurants operate afterwards. As someone who enjoys going out to eat around the city, this was a fun and eye-opening examination.
 
 ### Boston_Airbnb_Sentiment_Analysis_Using_Keras
-This is another personal project in which I used natural language processing to classify reviews of Boston Airbnb's. I first use Keras to train a recurrent neural network on a corpus of labeled movie reviews from IMDB, and then use that model to analyze sentiment on the Airbnb reviews. 
+This is a personal project in which I used natural language processing to classify reviews of Boston Airbnb's. I first use Keras to train a recurrent neural network on a corpus of labeled movie reviews from IMDB, and then use that model to analyze sentiment on the Airbnb reviews. 
 
 ### Analyzing_Video_Game_Sales
 This was a final project in the "Python for Data Science" UCSD course on edX.org, in which I analyzed video game sales from 1980-2016. The idea of the project was to understand what the best-selling video game genres and consoles were in the major international game markets (North America, Europe, Japan). Using that information, video game development companies could theoretically target specific genres and consoles to the top-selling regions. I also created several visualizations which I think helped boil down a lot of information into very presentable formats to help drive decision making.
