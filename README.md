@@ -2,6 +2,14 @@
 
 This is a collection of projects which I am either particularly proud of, or that I feel showcase particular skillsets. I will give a brief description of each of the projects below and why I have specifically chosen them.
 
+For 2020, my goal is to complete one new project every month. Each project will use a new concept, technology, language, etc.
+
+### January: Food Desert Investigation
+I use a logistic regression model to gain an understanding of which demographics are most affected by food deserts.
+
+---
+## Previous Projects
+
 ### Query_Script
 This is a Bash script I wrote for the midterm project in Intro to Data Science Management in my RIT Master's program. I am particularly proud of this project because I had no familiarity with Bash prior to this project. I taught myself in a couple of weeks and received a perfect score on the project.
 
