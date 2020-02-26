@@ -7,6 +7,9 @@ For 2020, my goal is to complete one new project every month. Each project will 
 ### January: Food Desert Investigation
 I use a logistic regression model to gain an understanding of which demographics are most affected by food deserts.
 
+### February: Optimizing Boston Blue Bikes Infrastructure
+Looking at the busiest stations and routes, I look at how Blue Bike stations could be optimized around the city by adding or removing bike docks.
+
 ---
 ## Previous Projects
 
