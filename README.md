@@ -10,6 +10,9 @@ I use a logistic regression model to gain an understanding of which demographics
 ### February: Optimizing Boston Blue Bikes Infrastructure
 Looking at the busiest stations and routes, I look at how Blue Bike stations could be optimized around the city by adding or removing bike docks.
 
+### March: 2020 Wellness Survey
+As head of the Wellness Committee at my company, we send out 1-2 surveys per year soliciting feedback on the services we provide. In this project, I use natural language processing on the text responses to learn how we can improve as a committee.
+
 ---
 ## Previous Projects
 
