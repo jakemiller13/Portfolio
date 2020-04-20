@@ -13,6 +13,9 @@ Looking at the busiest stations and routes, I look at how Blue Bike stations cou
 ### March: 2020 Wellness Survey
 As head of the Wellness Committee at my company, we send out 1-2 surveys per year soliciting feedback on the services we provide. In this project, I use natural language processing on the text responses to learn how we can improve as a committee.
 
+### April: NFL Rushing Quarterbacks
+This project spiraled out of a family conversation on whether quarterbacks who rush more than other quarterbacks have shorter careers. I start by looking holistically at quarterbacks since the first Super Bowl, and then use a full linear regression analysis to identify outliers.
+
 ---
 ## Previous Projects
 
